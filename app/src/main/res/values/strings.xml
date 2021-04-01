@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FamilyMap</string>
+    <string name="login_fail_toast">Failed Login</string>
+    <string name="data_fail_toast">Failed Data Retrieval</string>
+    <string name="login_missing_parameters">Please fill the first four fields</string>
+    <string name="register_missing_parameters">Please fill all fields</string>
+    <string name="map_fragment_message">Click on a marker to see event details</string>
+    <string name="person_activity_people_title">Family</string>
+    <string name="person_activity_events_title">Life Events</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="gender_f">f</string>
+    <string name="gender_m">m</string>
+    <string name="father_event_filter">father</string>
+    <string name="mother_event_filter">mother</string>
+    <string name="male_event_filter">male</string>
+    <string name="female_event_filter">female</string>
+    <string name="life_story_line_filter">life_story</string>
+    <string name="family_tree_line_filter">family_tree</string>
+    <string name="spouse_line_filter">spouse</string>
+    <string name="mother">Mother</string>
+    <string name="father">Father</string>
+    <string name="spouse">Spouse</string>
+    <string name="child">Child</string>
+
+</resources>

@@ -1,0 +1,1 @@
+Navigate to FamilyMapApp/app/src/main and open the AndroidManifest.xml file. Under meta-data, add your google maps API key.
